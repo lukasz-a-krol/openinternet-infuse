@@ -1,4 +1,4 @@
-# Infuse website
+# Infuse website 
 
 The [Infuse website](https://infuse.quest) is built using the [Hugo](https://gohugo.io) Static Site Generator.
 To edit the website locally, we have to install Hugo Extended version and NPM/NodeJS (latest version preferrable).
